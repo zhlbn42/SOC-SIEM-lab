@@ -22,6 +22,6 @@ Metasploitable3 → rsyslog → Logstash (syslog/UDP 5514) → Elasticsearch →
 
 ## What I did
 - Simulated SSH attack activity from **Kali** against **Metasploitable3**
-- Verified the events in Kibana Discover (`Failed password` / `Accepted password`)
+- Verified the events in Kibana Discover 
 - Created detection rules in Elastic Security and validated that alerts trigger
 - Wrote a short incident report with timeline, evidence, and response recommendations
