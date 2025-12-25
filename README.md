@@ -2,7 +2,7 @@
 
 I built an Elastic Stack pipeline to collect host logs, create detections, generate alerts, and document incidents like a SOC analyst.
 
-This repo shows the workflow: **telemetry → detection → alert → investigation → documentation**.
+This repository demonstrates a SOC workflow: telemetry collection, detection engineering, alerting, investigation, and incident documentation using controlled attack simulations.
 
 ---
 
