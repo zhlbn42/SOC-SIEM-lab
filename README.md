@@ -9,7 +9,6 @@ This repo shows the workflow: **telemetry → detection → alert → investigat
 ## Environment (this lab)
 - **Attacker:** Kali Linux
 - **Victim:** Metasploitable3 (Ubuntu)
-- **Main telemetry:** SSH authentication logs (`sshd`)
 
 ---
 
